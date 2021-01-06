@@ -1,0 +1,18 @@
+#allTheThings {
+  width: 90%;
+  max-width: 800px;
+  text-align: center;
+  margin: 8em auto;
+  font-size: 1.3rem;
+  color: #94aab0;
+  display: block;
+}
+
+a{
+	color: #94aab0;
+	text-decoration: none;
+}
+
+#member{
+	display: inline-block;
+}

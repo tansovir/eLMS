@@ -1,0 +1,44 @@
+html {
+  font-size: 62.5%;
+}
+
+body{
+	font-family: "Open Sans", sans-serif;
+}
+
+#allTheThings{
+	width: 90%;
+	max-width: 600px;
+	margin: 4em auto;
+	font-size: 1.3rem;
+	color: #94aab0;
+	margin-bottom: 10px;
+	display: block;
+}
+
+#allTheThings input[type="button"] {
+	width: 100%;
+	border: none;
+	background: #47953b;
+	border-radius: .25em;
+	padding: 16px 20px;
+	margin-bottom: 20px;
+	color: #ffffff;
+	font-weight: bold;
+	font-family: "Open Sans", sans-serif;
+	font-size: 1.6rem;
+	float: right;
+	cursor: pointer;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+	-o-appearance: none;
+	appearance: none;
+}
+
+
+a{
+	text-decoration: none;
+}
